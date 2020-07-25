@@ -1,6 +1,6 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
-import { InputText, InputFile } from "components/Form";
+import { InputText, InputFile } from "./../../components/Form";
 import logoBca from "./../../images/logo-bca.png";
 import logoMandiri from "./../../images/logo-mandiri.png";
 
